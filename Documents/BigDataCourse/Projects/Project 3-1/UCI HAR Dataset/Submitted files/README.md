@@ -33,13 +33,10 @@ This is a class project for the "Getting & Cleaning Data" course.
  7.	 assign a header to the data in each data frame
  8.	 generate the complete test_data
  9.	 Merge the two data sets
- 10.	 Extracts only the measurements on the mean and standard deviation for each measurement
-        a.  First remove the duplicates
+ 10.	 Extracts only the measurements on the mean and standard deviation for each measurement. First we remove the duplicates
   11.	Select the columns that have mean and standard Deviation only
-  12.	Uses descriptive activity names to name the activities in the data set
-        b.  Read the activity names from the activity file
-   13.	 create names to the descriptive activity variables
-        c.  The dataset with descriptive activity names
+  12.	Uses descriptive activity names to name the activities in the data set, we Read the activity names from the activity file
+   13.	 create names to the descriptive activity variables.
      14.	 creates a second, independent tidy data set with the average of each variable for each activity and each subject.
      15.	 Write the tidy data into a text file
      
