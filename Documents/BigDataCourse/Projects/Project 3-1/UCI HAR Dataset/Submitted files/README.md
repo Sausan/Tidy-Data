@@ -16,12 +16,15 @@ This is a class project for the "Getting & Cleaning Data" course.
  - Triaxial Angular velocity from the gyroscope. 
  - A 79-feature vector with time and frequency domain variables that represent the mean and standard deviation value for each measurement for that subject and that activity. 
 
- The class Project submission includes the following files:
 
+ The class Project submission includes the following files:
  - 'README.md' - This file
  - 'CodeBook.md': Describes the variables, the data, and the work has been done on the data
  - 'run_analysis.R': The scripts that we created to perform the analysis.
  - 'tidydata.txt': The result
+
+
+
 
  What does the run_analysis.R works:
  1.	 read the test data frames from the three files in the test folder
