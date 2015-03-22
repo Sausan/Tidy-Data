@@ -7,8 +7,9 @@ This is a class project for the "Getting & Cleaning Data" course.
  
  In order to perform the work in this course, we have downloaded the data from the UCI website.
 
+----------------------------------
  For each record it is provided:
-
+----------------------------------
  - An identifier of the subject who carried out the experiment.
  - Its activity label. 
  - Its activity description. 
@@ -17,7 +18,9 @@ This is a class project for the "Getting & Cleaning Data" course.
  - A 79-feature vector with time and frequency domain variables that represent the mean and standard deviation value for each measurement for that subject and that activity. 
 
 
+-----------------------------------------------------------
  The class Project submission includes the following files:
+ ----------------------------------------------------------
  - 'README.md' - This file
  - 'CodeBook.md': Describes the variables, the data, and the work has been done on the data
  - 'run_analysis.R': The scripts that we created to perform the analysis.
@@ -25,8 +28,9 @@ This is a class project for the "Getting & Cleaning Data" course.
 
 
 
-
+------------------------------------
  What does the run_analysis.R works:
+ ------------------------------------
  1.	 read the test data frames from the three files in the test folder
  2.	 read the features from the feature file in the main folder
  3.	 assign a header to the data in each data frame
