@@ -3,6 +3,7 @@ Getting and Cleaning Data Course
 =================================================================================== README File
 ===================================================================================
 
+-----------------------------------------------------------------
 This is a class project for the "Getting & Cleaning Data" course. 
  
  In order to perform the work in this course, we have downloaded the data from the UCI website.
@@ -29,7 +30,7 @@ This is a class project for the "Getting & Cleaning Data" course.
 
 
 ------------------------------------
- What does the run_analysis.R works:
+ What does the run_analysis.R do:
  ------------------------------------
  1.	 read the test data frames from the three files in the test folder
  2.	 read the features from the feature file in the main folder
